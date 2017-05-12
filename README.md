@@ -1,8 +1,6 @@
-# ICA-2
+# ICA02 #
 
-** Her kommer en kort forklaring om koden i ICA02**
+**Kort kommentar om oppgaven**
 
-
-I denne ICAen har vi endret på 1,2,3,5. 
-
-Vi har også endret flere av kodene siden sist. Bla. Har Marius Norli hentet ut mye kode fra sin forrige gruppe(2).
+I denne ICAen er det mest gjort småendringer
+Vi har også byttet ut flere av kodene siden sist. Bla. Har Marius Norli hentet ut mye kode fra sin forrige gruppe(2).
