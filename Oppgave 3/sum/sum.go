@@ -1,3 +1,4 @@
+// Copyright 2017 Gruppe 12 IS-105. All rights reserved.
 package sum
 
 func SumInt32(a, b int32) int32 {
