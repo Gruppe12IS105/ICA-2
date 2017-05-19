@@ -1,4 +1,5 @@
 // Copyright 2017 Gruppe 12 IS-105. All rights reserved.
+// Kode fra https://github.com/IS105-Dyreparken/ICA02/blob/master/Oppgave-4/algorithms/sorting_test.go delvis gjennbrukt her.
 package algorithms
 
 import (
