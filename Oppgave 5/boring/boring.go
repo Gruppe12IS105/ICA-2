@@ -1,4 +1,5 @@
 // Copyright 2017 Gruppe 12 IS-105. All rights reserved.
+// Kode fra https://github.com/uia-worker/is105-ica02/blob/master/boring/boring.go delvis gjennbrukt her.
 package boring
 
 import (
