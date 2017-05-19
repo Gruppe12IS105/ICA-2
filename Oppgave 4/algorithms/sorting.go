@@ -1,7 +1,7 @@
 // Copyright 2017 Gruppe 12 IS-105. All rights reserved.
+// Kode fra https://github.com/uia-worker/is105-ica02/blob/master/algorithms/sorting.go delvis gjennbrukt her.
 package algorithms
 
-// Les https://en.wikipedia.org/wiki/Bubble_sort
 func Bubble_sort_modified(list []int) {
 	// Deres kode her
 	n := len(list)
